@@ -1,0 +1,11 @@
+{
+  "name": "safe-mint-fingercheck",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node server.mjs --once"
+  },
+  "engines": { "node": ">=20" }
+}
