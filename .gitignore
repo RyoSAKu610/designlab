@@ -1,0 +1,4 @@
+.env
+.opensea-key
+.DS_Store
+node_modules/
